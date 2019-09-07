@@ -1,0 +1,19 @@
+<svg width="1440px" height="700px" viewBox="0 0 1440 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="700"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Copy-8">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-3" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M39,640.71712 L312.86491,408.911322 C478.44995,269.401158 627.604535,248.65397 760.328664,346.669758 L1025,576.628498 L1025,696 L39,696 L39,640.71712 Z" id="Path-8" stroke="#000000" stroke-width="10" fill="#002C2D" mask="url(#mask-2)"></path>
+                <path d="M1435,696 L1435,360.536301 C1335.51338,308.278029 1163.0747,351.124077 917.683973,489.074446 C672.293242,627.024815 559.07862,696 578.040108,696 L1435,696 Z" id="Path-9" stroke="#000000" stroke-width="10" fill="#8D262F" mask="url(#mask-2)"></path>
+                <path d="M5,347.872265 L5,695 L529,695 C424.847049,523.448823 330.121236,411.816903 244.82256,360.104239 C159.523883,308.391575 79.5830303,304.31425 5,347.872265 Z" id="Path-10" stroke="#000000" stroke-width="10" fill="#B94B10" mask="url(#mask-2)"></path>
+                <ellipse id="Oval-5" stroke="#000000" stroke-width="10" fill="#F19720" mask="url(#mask-2)" cx="976.5" cy="242.5" rx="119.5" ry="120.5"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

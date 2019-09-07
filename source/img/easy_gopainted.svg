@@ -1,0 +1,35 @@
+<svg width="616px" height="450px" viewBox="0 0 616 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="616" height="449.459283"></rect>
+        <rect id="path-3" x="0.781758958" y="0.273615635" width="616" height="449.459283"></rect>
+        <ellipse id="path-5" cx="359.22901" cy="220.833338" rx="291.145872" ry="304.422883"></ellipse>
+        <ellipse id="path-7" cx="359.22901" cy="220.833338" rx="291.145872" ry="304.422883"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2-Copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <rect stroke="#000000" stroke-width="10" x="5" y="5" width="606" height="439.459283"></rect>
+            <g id="Shape" mask="url(#mask-2)">
+                <g transform="translate(-0.781759, -0.273616)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <rect stroke="#000000" stroke-width="10" x="5.78175896" y="5.27361564" width="606" height="439.459283"></rect>
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Mask" stroke="#000000" stroke-width="10" fill="none" fill-rule="nonzero" xlink:href="#path-5"></use>
+                    <ellipse id="Mask" stroke="#000000" stroke-width="10" fill="#FFBD8C" fill-rule="nonzero" mask="url(#mask-6)" cx="359.22901" cy="220.833338" rx="291.145872" ry="304.422883"></ellipse>
+                    <path d="M275.880149,196.102027 L262.382833,183.815264 L262.382833,202.479846 L262.382833,722.512158 L226.388181,707.756744 L226.388181,202.479846 L226.388181,182.860569 L212.66893,196.311044 L-3.72168696,408.45684 C-18.3460404,339.182092 -0.675376254,286.430921 28.4707739,248.005835 C59.8189065,206.677118 104.787532,181.538682 138.39625,171.107644 L137.194873,154.594799 L-82.0439958,122.775754 C-17.6476788,86.8763741 30.3233042,69.4653244 69.5872865,64.6573869 C112.664312,59.3828348 145.861719,69.2060314 179.605009,87.7226073 L189.830282,75.0313694 L72.013374,-82.9967427 C143.635861,-74.3660682 189.102618,-52.6374217 217.516221,-27.3103071 C248.231108,0.0679908895 259.715276,32.263265 262.428956,58.6868673 L263.829477,72.3271517 L274.918613,64.9172449 C356.378936,10.4837767 429.231017,10.7447645 487.303011,32.5728349 C538.385963,51.7729503 578.437297,87.8401083 602.736156,119.172767 L375.068112,119.172767 L372.37885,135.643808 C446.302078,162.587692 483.857327,215.642218 501.053192,271.274422 C516.30645,320.619193 515.497935,372.008934 509.317408,408.609365 L275.880149,196.102027 Z" id="Shape" stroke="#000000" stroke-width="10" fill="#0F2E0E" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Mask" stroke="#000000" stroke-width="10" fill="none" fill-rule="nonzero" xlink:href="#path-7"></use>
+                    <rect id="Rectangle-25" stroke="#000000" stroke-width="10" fill="none" mask="url(#mask-8)" x="5" y="5" width="607" height="440"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

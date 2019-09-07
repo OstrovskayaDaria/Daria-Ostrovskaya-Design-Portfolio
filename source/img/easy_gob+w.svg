@@ -1,0 +1,31 @@
+<svg width="616px" height="450px" viewBox="0 0 616 450" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="616" height="449.459283"></rect>
+        <ellipse id="path-3" cx="291.22901" cy="304.833338" rx="291.145872" ry="304.422883"></ellipse>
+        <rect id="path-5" x="-67.218241" y="84.2736156" width="616" height="449.459283"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Portfolio-Copy-9" transform="translate(-92.000000, -1518.000000)">
+            <g id="Group-2" transform="translate(92.000000, 1518.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <rect stroke="#000000" stroke-width="10" x="5" y="5" width="606" height="439.459283"></rect>
+                <g id="Shape" mask="url(#mask-2)">
+                    <g transform="translate(67.218241, -84.273616)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Mask" stroke="#000000" stroke-width="10" fill="none" fill-rule="nonzero" xlink:href="#path-3"></use>
+                        <path d="M207.880149,280.102027 L194.382833,267.815264 L194.382833,286.479846 L194.382833,806.512158 L158.388181,791.756744 L158.388181,286.479846 L158.388181,266.860569 L144.66893,280.311044 L-71.721687,492.45684 C-86.3460404,423.182092 -68.6753763,370.430921 -39.5292261,332.005835 C-8.18109352,290.677118 36.7875316,265.538682 70.3962502,255.107644 L69.194873,238.594799 L-150.043996,206.775754 C-85.6476788,170.876374 -37.6766958,153.465324 1.5872865,148.657387 C44.6643122,143.382835 77.8617192,153.206031 111.605009,171.722607 L121.830282,159.031369 L4.01337399,1.00325733 C75.6358612,9.63393176 121.102618,31.3625783 149.516221,56.6896929 C180.231108,84.0679909 191.715276,116.263265 194.428956,142.686867 L195.829477,156.327152 L206.918613,148.917245 C288.378936,94.4837767 361.231017,94.7447645 419.303011,116.572835 C470.385963,135.77295 510.437297,171.840108 534.736156,203.172767 L307.068112,203.172767 L304.37885,219.643808 C378.302078,246.587692 415.857327,299.642218 433.053192,355.274422 C448.30645,404.619193 447.497935,456.008934 441.317408,492.609365 L207.880149,280.102027 Z" id="Shape" stroke="#000000" stroke-width="10" fill="none" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                        <ellipse id="Mask" stroke="#000000" stroke-width="10" fill="none" fill-rule="nonzero" mask="url(#mask-4)" cx="291.22901" cy="304.833338" rx="291.145872" ry="304.422883"></ellipse>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <rect stroke="#000000" stroke-width="10" x="-62.218241" y="89.2736156" width="606" height="439.459283"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

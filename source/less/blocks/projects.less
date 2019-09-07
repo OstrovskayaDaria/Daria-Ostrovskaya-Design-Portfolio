@@ -1,0 +1,253 @@
+.projects {
+  width: 320px;
+  margin: 20px auto 0;
+}
+
+.projects h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-weight: 900;
+  text-align: center;
+  padding: 10px;
+  margin: 0 0 5px;
+}
+
+.projects__pic--easyGo {
+  background-image: url("../img/easy_gob+w.svg");
+  background-size: 300px 220px;
+  background-repeat: no-repeat;
+  width: 300px;
+  min-height: 220px;
+  margin: 0 auto;
+}
+
+.projects__pic--easyGo:hover,
+.projects__pic--easyGo:active {
+  background-image: url("../img/easy_gopainted.svg");
+}
+
+.projects__wrap {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.projects__wrap h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 24px;
+  font-style: normal;
+  font-weight: bold;
+  padding: 15px 10px 5px;
+  text-align: left;
+  margin: 0;
+}
+
+.projects__description {
+  padding: 5px 10px 10px;
+  margin: 0;
+}
+
+.projects__skills {
+  font-family: "Montserrat", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 18px;
+  padding: 0 10px;
+  margin: 0 0 30px;
+  color: #252525;
+}
+
+.projects__skills:hover {
+  color: #948e8e;
+}
+
+.projects__button {
+  width: 127px;
+  height: 24px;
+  border: 4px solid black;
+  font-family: "Playfair Display", serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 23px;
+  color: black;
+  padding: 15px 95px 15px 70px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.projects__button::after {
+  content: "";
+  background-image: url("../img/arrow.svg");
+  background-size: 40px 20px;
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  top: 16px;
+  left: 188px;
+}
+
+.projects__button:hover,
+.projects__button:active {
+  border: 4px solid #948e8e;
+  color: #948e8e;
+}
+
+.projects__button:hover::after,
+.projects__button:active::after {
+  background-image: url("../img/arrow_grey.svg");
+}
+
+.projects__pic--tripLog {
+  background-image: url("../img/trip_logb+w.svg");
+  background-size: 300px 220px;
+  background-repeat: no-repeat;
+  width: 300px;
+  min-height: 220px;
+  margin: 0 auto;
+}
+
+.projects__pic--tripLog:hover,
+.projects__pic--tripLog:active {
+  background-image: url("../img/trip_logpainted.svg");
+}
+
+@media (min-width: @tablet-width) {
+  .projects {
+    width: 768px;
+  }
+
+  .projects h2 {
+    text-align: left;
+    font-size: 40px;
+    line-height: 44px;
+    padding: 10px 30px;
+    margin: 75px 0 25px;
+  }
+
+  .projects__easyGo,
+  .projects__tripLog {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 0 40px;
+  }
+
+  .projects__pic--easyGo {
+    margin: 0;
+  }
+
+  .projects__wrap {
+    width: 330px;
+    padding: 0 20px;
+    margin: 0;
+  }
+
+  .projects__pic--easyGo,
+  .projects__pic--tripLog {
+    background-size: 340px 250px;
+    width: 340px;
+    min-height: 250px;
+    margin: 0;
+  }
+
+  .projects__wrap h3 {
+    font-size: 27px;
+    line-height: 34px;
+    padding: 0 0 15px;
+  }
+
+  .projects__description {
+    font-size: 20px;
+    line-height: 30px;
+    padding: 0 0 5px;
+  }
+
+  .projects__skills {
+    font-size: 18px;
+    line-height: 22px;
+    padding: 5px 0;
+    margin: 0 0 10px;
+  }
+
+  .projects__button {
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    border: none;
+    padding: 15px 100px 15px 0;
+    margin: 0;
+    width: 150px;
+  }
+
+  .projects__button:hover,
+  .projects__button:active {
+    border: none;
+  }
+
+  .projects__button::after {
+    top: 18px;
+    left: 160px;
+  }
+}
+
+@media (min-width: @desktop-width) {
+  .projects {
+    width: 1300px;
+    margin-bottom: 140px;
+  }
+
+  .projects h2 {
+    font-size: 60px;
+    line-height: 73px;
+    padding: 10px 110px;
+    margin: 200px 0 60px;
+  }
+
+  .projects__pic {
+    width: 616px;
+    min-height: 450px;
+    background-size: 616px 450px;
+  }
+
+  .projects__wrap {
+    width: 415px;
+  }
+
+  .projects__wrap h3 {
+    font-size: 45px;
+    line-height: 55px;
+  }
+
+  .projects__description {
+    font-size: 35px;
+    line-height: 47px;
+  }
+
+  .projects__skills {
+    font-size: 22px;
+    line-height: 27px;
+    padding: 10px 0;
+  }
+
+  .projects__button {
+    font-size: 30px;
+    line-height: 37px;
+    width: 230px;
+  }
+
+  .projects__button::after {
+    background-size: 60px 30px;
+    width: 60px;
+    height: 30px;
+    top: 18px;
+    left: 240px;
+  }
+}
