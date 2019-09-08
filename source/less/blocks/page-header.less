@@ -15,17 +15,12 @@
 }
 
 .page-header__pic {
-  background-image: url("../img/coverb+w.svg");
+  background-image: url("../img/covermob.svg");
   background-size: 320px 190px;
   background-repeat: no-repeat;
   width: 320px;
-  min-height: 176px;
+  min-height: 190px;
   margin-top: -35px;
-}
-
-.page-header__pic:hover,
-.page-header__pic:active {
-  background-image: url("../img/coverpainted.svg");
 }
 
 @media (min-width: @tablet-width) {
@@ -41,9 +36,15 @@
   }
 
   .page-header__pic {
+    background-image: url("../img/cover.svg");
     width: 768px;
     min-height: 375px;
     background-size: 768px 375px;
+  }
+
+  .page-header__pic:hover,
+  .page-header__pic:active {
+    background-image: url("../img/coverpainted.svg");
   }
 }
 
@@ -63,6 +64,6 @@
     width: 1300px;
     min-height: 660px;
     background-size: 1300px 660px;
-    margin-top: -80px;
+    margin-top: -40px;
   }
 }

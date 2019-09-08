@@ -1,19 +1,20 @@
-<svg width="1440px" height="700px" viewBox="0 0 1440 700" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-        <rect id="path-1" x="0" y="0" width="1440" height="700"></rect>
-    </defs>
+<svg width="1440px" height="701px" viewBox="0 0 1440 701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Portfolio-Copy-8">
-            <g id="Group-3">
-                <mask id="mask-2" fill="white">
-                    <use xlink:href="#path-1"></use>
-                </mask>
-                <use id="Rectangle-3" fill="#FFFFFF" xlink:href="#path-1"></use>
-                <path d="M39,640.71712 L312.86491,408.911322 C478.44995,269.401158 627.604535,248.65397 760.328664,346.669758 L1025,576.628498 L1025,696 L39,696 L39,640.71712 Z" id="Path-8" stroke="#000000" stroke-width="10" fill="#002C2D" mask="url(#mask-2)"></path>
-                <path d="M1435,696 L1435,360.536301 C1335.51338,308.278029 1163.0747,351.124077 917.683973,489.074446 C672.293242,627.024815 559.07862,696 578.040108,696 L1435,696 Z" id="Path-9" stroke="#000000" stroke-width="10" fill="#8D262F" mask="url(#mask-2)"></path>
-                <path d="M5,347.872265 L5,695 L529,695 C424.847049,523.448823 330.121236,411.816903 244.82256,360.104239 C159.523883,308.391575 79.5830303,304.31425 5,347.872265 Z" id="Path-10" stroke="#000000" stroke-width="10" fill="#B94B10" mask="url(#mask-2)"></path>
-                <ellipse id="Oval-5" stroke="#000000" stroke-width="10" fill="#F19720" mask="url(#mask-2)" cx="976.5" cy="242.5" rx="119.5" ry="120.5"></ellipse>
-            </g>
+        <g id="Cover-Copy-2">
+            <rect id="Rectangle-2" fill="#FFFFFF" x="0" y="0" width="1440" height="696"></rect>
+            <ellipse id="Oval-5" stroke="#000000" stroke-width="10" fill="#F19720" cx="1017.5" cy="182.5" rx="119.5" ry="120.5"></ellipse>
+            <path d="M308,411.638861 C475.309405,266.716937 624.569916,243.300038 755.781534,341.388164 L927,485.824927 C808.386861,553.896231 720.613455,605.293401 663.679784,640.016438 C606.746112,674.739474 581.209439,693.162938 587.069765,695.286828 L525.463845,695.286828 C461.581947,599.14471 416.65665,534.680464 390.687954,501.89409 C364.719258,469.107715 337.156607,439.022639 308,411.638861 Z" id="Path-8" stroke="#000000" stroke-width="10" fill="#002C2D"></path>
+            <path d="M1435,695 L1435,359.536301 C1336.67155,307.278029 1166.24031,350.124077 923.706279,488.074446 C681.17225,626.024815 569.27561,695 588.016358,695 L1435,695 Z" id="Path-9" stroke="#000000" stroke-width="10" fill="#8D262F"></path>
+            <path d="M5,347.872265 L5,695 L522,695 C419.238405,523.448823 325.778013,411.816903 241.618823,360.104239 C157.459633,308.391575 78.5866921,304.31425 5,347.872265 Z" id="Path-10" stroke="#000000" stroke-width="10" fill="#B94B10"></path>
+            <path d="M991.5,557.5 L972,514" id="Line-4" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1116.5,486.5 L1097,443" id="Line-4-Copy" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1134.5,644.5 L1115,601" id="Line-4-Copy-2" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1360.5,634.5 L1341,591" id="Line-4-Copy-3" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1243.5,546.5 L1224,503" id="Line-4-Copy-4" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1295.5,442.5 L1276,399" id="Line-4-Copy-5" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M1399.5,546.5 L1380,503" id="Line-4-Copy-6" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M922.5,644.5 L903,601" id="Line-4-Copy-7" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M798.5,644.5 L779,601" id="Line-4-Copy-8" stroke="#000000" stroke-width="10" stroke-linecap="square"></path>
         </g>
     </g>
 </svg>

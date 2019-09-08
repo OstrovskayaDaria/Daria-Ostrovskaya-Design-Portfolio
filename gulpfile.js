@@ -11,10 +11,8 @@ var include = require("posthtml-include");
 var imagemin = require("gulp-imagemin");
 var del = require("del");
 var server = require("browser-sync").create();
-/*
-var ghPages = require('gh-pages');
-var path = require('path');
-*/
+/*var ghPages = require('gh-pages');
+var path = require('path');*/
 
 gulp.task("css", function () {
   return gulp.src("source/less/style.less")
